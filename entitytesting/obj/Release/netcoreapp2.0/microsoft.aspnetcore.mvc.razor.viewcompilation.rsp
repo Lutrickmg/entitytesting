@@ -1,0 +1,16 @@
+C:\Users\mattg\source\repos\entitytesting\entitytesting
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=entitytesting
+--content-root=C:\Users\mattg\source\repos\entitytesting\entitytesting
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Characters\Create.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Characters\Delete.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Characters\Details.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Characters\Edit.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Characters\Index.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Home\About.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Home\Index.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Shared\Error.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Shared\_Layout.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\_ViewImports.cshtml
+--file=C:\Users\mattg\source\repos\entitytesting\entitytesting\Views\_ViewStart.cshtml

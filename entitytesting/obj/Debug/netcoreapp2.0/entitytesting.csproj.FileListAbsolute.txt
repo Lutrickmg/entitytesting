@@ -1,0 +1,11 @@
+C:\Users\mattg\source\repos\entitytesting\entitytesting\bin\Debug\netcoreapp2.0\entitytesting.deps.json
+C:\Users\mattg\source\repos\entitytesting\entitytesting\bin\Debug\netcoreapp2.0\entitytesting.runtimeconfig.json
+C:\Users\mattg\source\repos\entitytesting\entitytesting\bin\Debug\netcoreapp2.0\entitytesting.runtimeconfig.dev.json
+C:\Users\mattg\source\repos\entitytesting\entitytesting\bin\Debug\netcoreapp2.0\entitytesting.dll
+C:\Users\mattg\source\repos\entitytesting\entitytesting\bin\Debug\netcoreapp2.0\entitytesting.pdb
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.csprojResolveAssemblyReference.cache
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.csproj.CoreCompileInputs.cache
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.AssemblyInfoInputs.cache
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.AssemblyInfo.cs
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.dll
+C:\Users\mattg\source\repos\entitytesting\entitytesting\obj\Debug\netcoreapp2.0\entitytesting.pdb
