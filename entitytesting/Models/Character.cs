@@ -10,6 +10,7 @@ namespace entitytesting.Models
         public int CharacterID { get; set; }
 
         public string Name { get; set; }
+        public int Age { get; set; }
         
         public ICollection<CharacterSheet> CharacterSheet { get; set; }
     }

@@ -53,7 +53,7 @@ namespace entitytesting.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("CharacterID,Name")] Character character)
+        public async Task<IActionResult> Create([Bind("CharacterID,Name,Age")] Character character)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace entitytesting.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("CharacterID,Name")] Character character)
+        public async Task<IActionResult> Edit(int id, [Bind("CharacterID,Name,Age")] Character character)
         {
             if (id != character.CharacterID)
             {
